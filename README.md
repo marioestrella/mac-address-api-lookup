@@ -16,7 +16,7 @@ To use the "MAC Address API Lookup" program as a Docker container, follow these 
 2. Navigate to the project directory: `cd mac-address-api-lookup`
 3. Build the Docker image:
 ```
-docker build -t mac-address-api-lookup
+docker build -t mac-address-api-lookup .
 ```
 4. Run the Docker container
 ```
