@@ -12,7 +12,7 @@ The "MAC Address API Lookup" project is a Python program that queries the MAC ad
 
 ## Installation
 To use the "MAC Address API Lookup" program as a Docker container, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/mac-address-api-lookup.git`
+1. Clone the repository: `git clone https://github.com/marioestrella/mac-address-api-lookup.git`
 2. Navigate to the project directory: `cd mac-address-api-lookup`
 3. Build the Docker image:
 ```
